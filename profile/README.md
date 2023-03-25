@@ -35,4 +35,6 @@ Stay updated with our latest news and events by following us on Social Media!
   <a href="https://www.facebook.com/groups/odoomadacommunity/">
     <img src="https://user-images.githubusercontent.com/59861055/227740509-55703c64-adbd-4b75-892e-9375ac43c786.png" width="30" height="30" alt="Facebook Logo">
   </a>
+  <a href="https://github.com/Odoo-Madagascar-Community">
+    <img src="https://user-images.githubusercontent.com/59861055/227741168-ef817299-636d-4378-b016-7e72f823fb7e.png" width="30" height="30" alt="Github Logo">
 </p>
