@@ -13,7 +13,7 @@ We are a group of developers passionate about open-source software and dedicated
 
 We welcome contributions from anyone who shares our passion for open-source software and is interested in improving business management software for Madagascar. Whether you are a developer, designer, or just have an idea, we would love to hear from you!
 
-To get started, check out our [contributing guidelines](CONTRIBUTING.md) and browse our [list of projects](https://github.com/odoo-madagascar) to find an area where you can contribute.
+To get started, check out our [contributing guidelines](https://github.com/Odoo-Madagascar-Community/.github/blob/main/CONTRIBUTING.md) and browse our [list of projects](https://github.com/odoo-madagascar) to find an area where you can contribute.
 
 ## Contact :email:
 
